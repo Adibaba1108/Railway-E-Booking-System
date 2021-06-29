@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+
+*{
+	box-sizing: border-box;
+}
+.navbar{
+	 margin-bottom:0; 
+	 min-height:100%;
+}
+a{
+	color: #e2e6ec;
+}
+.bg{
+	background:#D7F3FF;
+	color:white;
+	font-family: 'Montserrat' , sans-serif;
+}
+.myidnx{
+	width: 600px;margin-left: 350px;margin-top: 20px;
+}
+.head{text-align:center; color:#fff;}
+
+
+.forminput{
+	margin-left: 200px;
+width: 600px;
+	
+}
+.widtheq{
+	width:150px;
+}
+.col-md-12{
+	margin-top:15px;
+}
+
+.list-group-item{width:500px;}
+.homelist{margin-left:260px;}
+.mainmenu{width:980px;}
+.footer{color:#fff;width:100% !important;font-size:16px;background:#222222;text-align:center;padding:15px;}
+.slider{width:950px;}
+.tablebg{background:#ffffff;}
+.selectform{float:left;width:250px;}
+
+
+
+
+
+.banner{
+	background: url(./rail.gif) center top;
+	background-size: cover;
+	min-height: 786px;
+}
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.column{width:1000px;}
